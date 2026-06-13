@@ -27,3 +27,12 @@ nbproject
 .komodotools
 _notes
 dwsync.xml
+
+# Vite
+dist/
+dist-ssr/
+
+# Playwright
+playwright-report/
+test-results/
+.features-gen/
